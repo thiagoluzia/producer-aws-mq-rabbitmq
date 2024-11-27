@@ -21,6 +21,13 @@ Este repositório demonstra como criar um produtor simples usando RabbitMQ em .N
 
 ---
 
+## Documentação Completa
+
+Para mais detalhes sobre RabbitMQ com C#, confira o PDF:
+[📄 RabbitMQ com C# - Documentação Completa](RabbitMQ_com_CSharp.pdf)
+
+---
+
 ## Estrutura do Projeto
 
 - `Program`: Classe principal que implementa o produtor.
@@ -133,24 +140,6 @@ public class Aluno
 
 ---
 
-## TODO List
+## Licença
 
-- [ ] Adicionar validação de entrada para campos obrigatórios.
-- [ ] Implementar lógica de reconexão automática.
-- [ ] Adicionar suporte a filas duráveis.
-
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para isso:
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch com a feature:
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. Envie um Pull Request.
-
----
-
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
