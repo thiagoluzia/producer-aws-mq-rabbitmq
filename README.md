@@ -24,7 +24,7 @@ Este repositório demonstra como criar um produtor simples usando RabbitMQ em .N
 ## Documentação Completa
 
 Para mais detalhes sobre RabbitMQ com C#, confira o PDF:
-[📄 RabbitMQ com C# - Documentação Completa](RabbitMQ_com_CSharp.pdf)
+[📄 RabbitMQ com C# - Documentação Completa](https://github.com/thiagoluzia/producer-aws-mq-rabbitmq/blob/master/RabbitMQ%20com%20C%23.pdf)
 
 ---
 
